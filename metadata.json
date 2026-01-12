@@ -1,0 +1,5 @@
+{
+  "name": "PrintMaster Pro",
+  "description": "Uma ferramenta profissional para preparar imagens para impressão, permitindo a escolha de tamanhos padrão, visualização de DPI em tempo real e preview de qualidade para evitar impressões com baixa resolução.",
+  "requestFramePermissions": []
+}
