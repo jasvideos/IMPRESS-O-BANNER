@@ -1,2 +1,2 @@
 
-// Lógica movida para index.html para garantir compatibilidade com Babel Standalone e Vercel.
+// Lógica movida para index.html para evitar conflitos de montagem no navegador.
